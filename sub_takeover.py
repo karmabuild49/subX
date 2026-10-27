@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-"""
 sub-takeover v3 — Professional Bulk Subdomain Takeover Engine.
-Actor kArmasec
-"""
+Creator kArmasec
+
 import sys
 import os
 import json
@@ -240,3 +239,4 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print(f"\n{C_RED}[!] Stopped by user.{C_RST}")
 
+happy haxing 

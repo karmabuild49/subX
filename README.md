@@ -1,0 +1,2 @@
+# subX
+Subdomain Takeover director 
